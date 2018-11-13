@@ -42,3 +42,4 @@ public class CoinFlip {
 	}
 
 }
+//ahhhhhhhhhh existence is pain
